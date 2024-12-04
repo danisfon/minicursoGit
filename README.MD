@@ -7,3 +7,7 @@
 - [O que é o *git*](/.git.md)
 - [O que é o *github*](/.github.md)
 - [O que é o *versionamento de código*](/.versionamento.md)
+
+### Branches
+
+- [O que é uma *branch*](/.branch.md)
